@@ -9,3 +9,4 @@ if Num2 > Num1:
     print('O segundo número é maior. ')
 if Num1 == Num2:
     print('Os números são iguais. ')
+    
